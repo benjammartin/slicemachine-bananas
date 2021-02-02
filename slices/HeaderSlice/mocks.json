@@ -1,0 +1,27 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "HeaderSlice",
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "deliver clicks-and-mortar e-tailers",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Esse consequat fugiat nostrud sint quis nisi adipisicing esse pariatur ea aliqua ad eiusmod ut culpa.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "header_slice"
+  }
+]

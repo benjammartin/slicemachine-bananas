@@ -1,0 +1,78 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "FeaturesSlice",
+    "primary": {
+      "title": [
+        {
+          "type": "heading2",
+          "text": "disintermediate collaborative platforms",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Exercitation pariatur minim deserunt excepteur sint irure velit cupidatat. Laboris ea in aliquip voluptate consectetur ipsum id ad ad exercitation eu ut veniam.",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": { "width": 900, "height": 500 },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.prismic.io/important-sm-images/4dde2a84-3496-49d9-a176-9a6ad245b147_7yCUmPAZrhc.jpg?w=900&h=500&fit=crop"
+      }
+    },
+    "items": [
+      {
+        "title": [
+          { "type": "heading3", "text": "evolve wireless portals", "spans": [] }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Ad enim ullamco laborum quis amet Lorem elit deserunt adipisicing consequat occaecat tempor Lorem velit. Reprehenderit esse amet nostrud ad cupidatat incididunt culpa fugiat commodo.\nLabore enim non in duis voluptate minim cupidatat est in laborum sint excepteur dolore consequat. Est cillum sunt excepteur irure reprehenderit ad deserunt qui ut laboris laboris enim deserunt et esse. Elit esse voluptate in occaecat enim eiusmod adipisicing labore tempor consectetur ipsum commodo commodo ut ad.\nVelit consequat fugiat duis enim esse occaecat exercitation. Irure eiusmod magna amet pariatur minim.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "type": "heading3",
+            "text": "syndicate interactive systems",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Nisi in in duis. Ea consequat deserunt velit velit.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "type": "heading3",
+            "text": "visualize global portals",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Aliqua excepteur duis mollit fugiat duis et pariatur quis ex consequat excepteur sit amet. Consequat voluptate id laboris do duis aliqua cillum anim esse amet. Eiusmod adipisicing magna culpa ipsum incididunt occaecat laboris sit laboris commodo dolor mollit excepteur.\nConsectetur do consequat ad excepteur magna ad laborum aliqua consequat tempor cillum fugiat.\nVoluptate culpa occaecat reprehenderit nisi tempor irure qui dolor mollit officia nulla ad. Ipsum cupidatat nostrud veniam in exercitation aliquip labore adipisicing in aliquip nostrud cupidatat labore dolor proident.",
+            "spans": []
+          }
+        ]
+      }
+    ],
+    "slice_type": "features_slice"
+  }
+]
