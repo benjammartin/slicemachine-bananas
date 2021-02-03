@@ -7,9 +7,10 @@ import Meta from './components/meta';
 import NavContext from './NavContext';
 
 export default function Layout({ layout, children }) {
-  const { navigation, logo } = layout?.data;
+  console.log(layout);
+  const { navigation, logo, label, link } = layout?.data;
   return (
-    <NavContext.Provider value={[logo, navigation]}>
+    <NavContext.Provider value={[logo, navigation, { label, link }]}>
       <Header />
       <Container size="default" variant="dev-mode">
         {children}
