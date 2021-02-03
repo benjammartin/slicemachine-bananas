@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/theme": ["theme"],
+      "@/modules/*": ["modules/*"]
+    }
+  },
+  "exclude": ["node_modules", ".next", ".slicemachine", ".storybook"]
+}
